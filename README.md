@@ -1,16 +1,26 @@
-### Hi there 👋
+Hello World 🌏  
 
-<!--
-**yubinkarki/yubinkarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yubin, a permanent resident of Bhaktapur, Nepal.  
+You can find me on [LinkedIn](https://www.linkedin.com/in/yubinkarki/) and [Facebook](https://www.facebook.com/yubinkarki/).  
+Browse my [Replit](https://replit.com/@YubinKarki) for some minor console programs.
 
-Here are some ideas to get you started:
+Currently:  
+- Working on a **[Project Management System](https://github.com/yubinkarki/Projecter)** with React and Node
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me:  
+- 90's kid
+- Born in Kathmandu, Nepal
+- Completed **Bachelor of Science in Computer Science** in 2020  
+- Go to PC game → [Dota 2](https://www.dota2.com/home)
+
+Web Development:
+- Languages: HTML, CSS, JavaScript, Python
+- Frameworks/Libraries: React, Redux, Node, Django
+- Styling: Bootstrap, MUI, SCSS
+- Backend: Express, Mongoose, JWT
+
+Software Testing:  
+- Languages: Python, JavaScript
+- Tools: JMeter, Selenium, Cypress
+- Manual: Test Case, Mind Map 
+
