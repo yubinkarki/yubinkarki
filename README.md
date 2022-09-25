@@ -11,7 +11,7 @@ About Me:
 - 90's kid
 - Born in Kathmandu, Nepal
 - Completed **Bachelor of Science in Computer Science** in 2020  
-- Go to PC game → [Dota 2](https://www.dota2.com/home)
+- Go-to PC game → [Dota 2](https://www.dota2.com/home)
 
 Web Development:
 - Languages: HTML, CSS, JavaScript, Python
