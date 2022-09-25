@@ -10,7 +10,7 @@ Currently:
 About Me:  
 - 90's kid
 - Born in Kathmandu, Nepal
-- Completed **Bachelor of Science in Computer Science** in 2020  
+- Completed **Bachelor of Science in Computer Science** in 2020
 - Go-to PC game → [Dota 2](https://www.dota2.com/home)
 
 Web Development:
@@ -21,6 +21,6 @@ Web Development:
 
 Software Testing:  
 - Languages: Python, JavaScript
-- Tools: JMeter, Selenium, Cypress
-- Manual: Test Case, Mind Map 
+- Tools: JMeter, Selenium, Cypress, Postman
+- Manual: Test Case, Mind Map
 
