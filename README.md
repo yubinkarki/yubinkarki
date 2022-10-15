@@ -21,10 +21,10 @@ Browse my Replit for some minor console programs.
 - Go-to PC game → [Dota 2](https://www.dota2.com/home)
 
 *Web Development:*  
-- Languages: HTML, CSS, JavaScript, Python
-- Frameworks/Libraries: React, Redux, Node, Django
-- Styling: Bootstrap, MUI, SCSS
-- Backend: Express, Mongoose, JWT
+- Languages: HTML, CSS, JavaScript  
+- Stack: MongoDB, Express, React, Node (MERN)
+- Libraries: Redux, Mongoose, Axios, JWT, Bcrypt  
+- Styling: Bootstrap, MUI  
 
 *Software Testing:*  
 - Languages: Python, JavaScript
