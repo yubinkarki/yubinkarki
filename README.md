@@ -28,6 +28,4 @@ Browse my Replit for some minor console programs.
 
 *Software Testing:*  
 - Languages: Python, JavaScript
-- Tools: JMeter, Selenium, Cypress, Postman
-- Manual: Test Case, Mind Map
-
+- Tools: JMeter, Selenium, Cypress, Postman  
