@@ -12,7 +12,7 @@ Browse my Replit for some minor console programs.
 - [Replit](https://replit.com/@YubinKarki)  
 
 *Currently:*  
-- Working on a **[Project Management System](https://github.com/yubinkarki/Projecter)** with React and Node
+- Working on a personal project - **[Project Management System](https://github.com/yubinkarki/Projecter)** with React and Node
 
 *About Me:*  
 - 90's kid
