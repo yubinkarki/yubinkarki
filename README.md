@@ -12,12 +12,13 @@ Browse my Replit for some minor console programs.
 - [Replit](https://replit.com/@YubinKarki)  
 
 *Currently:*  
-- Working on a personal project - **[Project Management System](https://github.com/yubinkarki/Projecter)** with React and Node
+- Employed as a React Native trainee
+- Working on a **[personal project](https://github.com/yubinkarki/Projecter)** with React and Node
 
 *About Me:*  
 - 90's kid
 - Born in Kathmandu, Nepal
-- Completed **Bachelor of Science in Computer Science** in 2020
+- Completed **Bachelor of Science in Computer Science (TU)** in 2020
 - Go-to PC game → [Dota 2](https://www.dota2.com/home)
 
 *Web Development:*  
