@@ -1,9 +1,9 @@
 **Hello World** 🌏  
 
 ```
-I am Yubin, a permanent resident of Bhaktapur, Nepal.  
-You can find me on the social media platforms linked below.  
-Browse my Replit for some minor console programs.
+I am Yubin, a newbie in the world of software development.  
+Permanent resident of Bhaktapur, Nepal.
+Find me on the social media platforms linked below.  
 ```  
 
 *Socials:*  
