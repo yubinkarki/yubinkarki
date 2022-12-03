@@ -12,7 +12,6 @@ Find me on the social media platforms linked below.
 - [Replit](https://replit.com/@YubinKarki)  
 
 *Currently:*  
-- Employed as a React Native trainee
 - Working on a **[personal project](https://github.com/yubinkarki/Projecter)** with React and Node
 
 *About Me:*  
@@ -26,7 +25,3 @@ Find me on the social media platforms linked below.
 - Stack: MongoDB, Express, React, Node (MERN)
 - Libraries: Redux, Mongoose, Axios, JWT, Bcrypt  
 - Styling: Bootstrap, MUI  
-
-*Software Testing:*  
-- Languages: Python, JavaScript
-- Tools: JMeter, Selenium, Cypress, Postman  
