@@ -22,6 +22,5 @@ Find me on the social media platforms linked below.
 
 *Web Development:*  
 - Languages: HTML, CSS, JavaScript  
-- Stack: MongoDB, Express, React, Node (MERN)
-- Libraries: Redux, Mongoose, Axios, JWT, Bcrypt  
-- Styling: Bootstrap, MUI  
+- Stack: MongoDB, Express, React, Node  
+- Libraries: Redux, Mongoose, Axios, JWT, MUI  
