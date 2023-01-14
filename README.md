@@ -8,7 +8,6 @@ Find me on the social media platforms linked below.
 
 *Socials:*  
 - [LinkedIn](https://www.linkedin.com/in/yubinkarki/)  
-- [Facebook](https://www.facebook.com/yubinkarki/)  
 - [Replit](https://replit.com/@YubinKarki)  
 
 *Currently:*  
@@ -24,3 +23,6 @@ Find me on the social media platforms linked below.
 - Languages: HTML, CSS, JavaScript  
 - Stack: MongoDB, Express, React, Node  
 - Libraries: Redux, Mongoose, Axios, JWT, MUI  
+
+*Mobile Development:*  
+- Frameworks: React Native
