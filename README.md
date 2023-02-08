@@ -1,4 +1,4 @@
-## **Hello World** 🌏  
+## **Hello World**  
 
 ```
 I am Yubin, a newbie in the world of software development.  
