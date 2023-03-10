@@ -5,13 +5,8 @@ I am Yubin, a newbie in the world of software development.
 Permanent resident of Bhaktapur, Nepal.
 Find me on the social media platforms linked below.  
 ```  
-
-**Socials:**  
-- [LinkedIn](https://www.linkedin.com/in/yubinkarki/)  
-- [Replit](https://replit.com/@YubinKarki)  
-
-**Currently:**  
-- Working on a **[personal project](https://github.com/yubinkarki/Projecter)** with React and Node
+Check out my [Replit](https://replit.com/@YubinKarki) for some python programs.  
+Currently working on a **[personal project](https://github.com/yubinkarki/Projecter)** with React and Node.  
 
 **About Me:**  
 - 90's kid
@@ -21,8 +16,8 @@ Find me on the social media platforms linked below.
 
 **Web Development:**  
 - Languages: HTML, CSS, JavaScript  
-- Stack: MongoDB, Express, React, Node  
-- Libraries: Redux, Mongoose, Axios, JWT, MUI  
+- Libraries: React, Redux, Axios, MUI  
 
 **Mobile Development:**  
+- Languages: JavaScript
 - Frameworks: React Native
