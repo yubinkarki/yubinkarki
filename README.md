@@ -1,12 +1,8 @@
 ## **Hello World**  
 
-```
-I am Yubin, a newbie in the world of software development.  
-Permanent resident of Bhaktapur, Nepal.
-Find me on the social media platforms linked below.  
-```  
-Check out my [Replit](https://replit.com/@YubinKarki) for some python programs.  
-Currently working on a **[personal project](https://github.com/yubinkarki/Projecter)** with React and Node.  
+> I am Yubin, a newbie in the world of software development.  
+> Permanent resident of Bhaktapur, Nepal.  
+> Check out my [Replit](https://replit.com/@YubinKarki) for some python programs.  
 
 **About Me:**  
 - 90's kid
