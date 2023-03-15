@@ -1,8 +1,8 @@
 ## **Hello World**  
 
-> I am Yubin, a newbie in the world of software development.  
-> Permanent resident of Bhaktapur, Nepal.  
-> Check out my [Replit](https://replit.com/@YubinKarki) for some python programs.  
+I am Yubin, a newbie in the world of software development.  
+Permanent resident of Bhaktapur, Nepal.  
+Check out my [Replit](https://replit.com/@YubinKarki) for some python programs.  
 
 **About Me:**  
 - 90's kid
