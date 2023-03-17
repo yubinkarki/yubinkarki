@@ -1,14 +1,15 @@
 ## **Hello World**  
 
+```
 I am Yubin, a newbie in the world of software development.  
 Permanent resident of Bhaktapur, Nepal.  
-Check out my [Replit](https://replit.com/@YubinKarki) for some python programs.  
+```
 
 **About Me:**  
-- 90's kid
-- Born in Kathmandu, Nepal
+- Made in the 90's in Kathmandu
 - Completed **Bachelor of Science in Computer Science (TU)** in 2019
-- Go-to PC game → [Dota 2](https://www.dota2.com/home)
+- Go-to PC game >> [Dota 2](https://www.dota2.com/home)
+- My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
 **Web Development:**  
 - Languages: HTML, CSS, JavaScript  
