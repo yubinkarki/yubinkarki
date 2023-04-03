@@ -2,6 +2,7 @@
 
 ```
 I am Yubin, a newbie in the world of software development.  
+Mainly focusing on front-end side for now.
 Permanent resident of Bhaktapur, Nepal.  
 ```
 
@@ -12,8 +13,8 @@ Permanent resident of Bhaktapur, Nepal.
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
 **Web Development:**  
-- Languages: HTML, CSS, JavaScript  
-- Libraries: React, Redux, Axios, MUI  
+- Languages: HTML, CSS, JavaScript
+- Libraries: React, MUI  
 
 **Mobile Development:**  
 - Languages: JavaScript
