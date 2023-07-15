@@ -3,11 +3,11 @@
 ```
 I am Yubin, a newbie in the world of software development.  
 Mainly focusing on front-end side for now.
-Permanent resident of Bhaktapur, Nepal.  
+Resident of Bhaktapur, Nepal.  
 ```
 
 **About Me:**  
-- Made in the 90's in Kathmandu
+- Initialized in the 90's
 - Completed *Bachelor of Science in Computer Science* in 2019
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
