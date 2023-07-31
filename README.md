@@ -8,7 +8,7 @@ Resident of Bhaktapur, Nepal.
 
 **About Me:**  
 - Initialized in the 90's
-- Completed *Bachelor of Science in Computer Science* in 2019
+- Completed Bachelor's degree in *Computer Science*
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
