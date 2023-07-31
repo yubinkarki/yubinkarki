@@ -1,8 +1,8 @@
-## **Hello World**  
+# **Hello World**  
 
 ```
 I am Yubin, a newbie in the world of software development.  
-Mainly focusing on front-end side for now.
+Currently focusing on front-end side.
 Resident of Bhaktapur, Nepal.  
 ```
 
@@ -19,3 +19,8 @@ Resident of Bhaktapur, Nepal.
 **Mobile Development:**  
 - Languages: JavaScript
 - Frameworks: React Native
+
+## My Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yubinkarki&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubinkarki&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
