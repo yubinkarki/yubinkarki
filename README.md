@@ -6,17 +6,17 @@ Currently focusing on front-end side.
 Resident of Bhaktapur, Nepal.  
 ```
 
-### About Me  
+**About Me**  
 - Initialized in the 90's
 - Completed Bachelor's degree in *Computer Science*
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
-### Web Development  
+**Web Development**  
 - Languages: HTML, CSS, JavaScript
 - Libraries: React, MUI  
 
-### Mobile Development  
+**Mobile Development**  
 - Languages: JavaScript
 - Frameworks: React Native
 
