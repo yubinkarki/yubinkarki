@@ -21,6 +21,6 @@ Resident of Bhaktapur, Nepal.
 - Frameworks: React Native
 
 ## My Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yubinkarki&theme=catppuccin-mocha&hide_border=true&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yubinkarki&theme=tokyonight&hide_border=true&card_width=450)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubinkarki&layout=compact&theme=material-palenight&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubinkarki&layout=compact&theme=tokyonight&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
