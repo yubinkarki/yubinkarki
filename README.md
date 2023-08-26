@@ -27,5 +27,5 @@ Resident of Bhaktapur, Nepal.
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactnative.dev/)  
 
 ## My Stats  
-[![GitHub Streak](https://github-readme-streak-stats-ris299lne-yubinkarki.vercel.app/?user=yubinkarki&theme=tokyonight&hide_border=true&card_width=500&hide_current_streak=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats-livid-phi-73.vercel.app/api/top-langs/?username=yubinkarki&layout=compact&theme=tokyonight&hide_border=true&card_width=500&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=tokyonight&hide_border=true&card_width=500&hide_current_streak=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats-yubinkarki.vercel.app/api/top-langs/?username=yubinkarki&layout=compact&theme=tokyonight&hide_border=true&card_width=500&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
