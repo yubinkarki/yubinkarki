@@ -12,19 +12,19 @@ Resident of Bhaktapur, Nepal.
 
 ## Web Development  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML)  
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML)  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Glossary/CSS)  
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/CSS)  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)  
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)  
 
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://react.dev/)  
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://react.dev/)  
 
 ## Mobile Development  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" decoding="async" loading="lazy" />](https://www.typescriptlang.org/)
 
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactnative.dev/)  
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
 
 ## My Stats  
 [![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=700&hide_current_streak=true)](https://git.io/streak-stats)  
