@@ -27,6 +27,6 @@ Resident of Bhaktapur, Nepal.
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
 
 ## My Stats  
-[![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=700&hide_current_streak=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubinkarki&theme=transparent&hide_border=true&card_width=380&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
