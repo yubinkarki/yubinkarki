@@ -18,8 +18,6 @@ Resident of Bhaktapur, Nepal.
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://react.dev/)  
-
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" decoding="async" loading="lazy" />](https://redux-toolkit.js.org/)  
 
 ## Mobile Development  
@@ -28,9 +26,7 @@ Resident of Bhaktapur, Nepal.
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
-
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" decoding="async" loading="lazy" />](https://dart.dev/)  
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
 
 ## My Stats  
 [![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
