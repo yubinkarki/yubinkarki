@@ -4,7 +4,7 @@ I am Yubin, a neophyte in the world of software development.
 Currently focusing on front-end side.  
 Resident of Bhaktapur, Nepal.  
 
-> This account is used for personal purposes only. There are no work related commits here.
+> Only personal stuff here.
 
 ## About Me  
 - Initialized in the 90's
