@@ -40,7 +40,11 @@ Resident of Bhaktapur, Nepal.
 
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" decoding="async" loading="lazy" />](https://aws.amazon.com/what-is-aws/)  
 
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" decoding="async" loading="lazy" />](https://git-scm.com/about)  
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" decoding="async" loading="lazy" />](https://git-scm.com/about)  
+
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" decoding="async" loading="lazy" />](https://developer.android.com/studio/intro)  
+
+[<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" decoding="async" loading="lazy" />](https://developer.apple.com/xcode/)  
 
 ## My Stats  
 [![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
