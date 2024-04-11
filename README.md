@@ -30,11 +30,19 @@ Resident of Bhaktapur, Nepal.
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" decoding="async" loading="lazy" />](https://firebase.google.com/)  
-
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" decoding="async" loading="lazy" />](https://dart.dev/)  
 
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" decoding="async" loading="lazy" />](https://docs.flutter.dev/)  
+
+## Other Tools & Tech  
+
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" decoding="async" loading="lazy" />](https://firebase.google.com/)  
+
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" decoding="async" loading="lazy" />](https://docs.docker.com/get-started/overview/)  
+
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" decoding="async" loading="lazy" />](https://aws.amazon.com/what-is-aws/)  
+
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" decoding="async" loading="lazy" />](https://code.visualstudio.com/docs/editor/whyvscode)  
 
 ## My Stats  
 [![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
