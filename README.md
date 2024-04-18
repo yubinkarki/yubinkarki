@@ -49,6 +49,6 @@ Resident of Bhaktapur, Nepal.
 ## My Stats  
 [![committers.top badge](https://user-badge.committers.top/nepal/yubinkarki.svg)](https://user-badge.committers.top/nepal/yubinkarki)
 
-[![GitHub Streak](https://github-readme-streak-stats-xi.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-top-languages-yk-projects.vercel.app/api/top-langs/?username=yubinkarki&theme=transparent&hide_border=true&card_width=380&layout=compact&langs_count=6&hide=scss,c%2B%2B,objective-c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)  
