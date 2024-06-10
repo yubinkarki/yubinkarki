@@ -1,7 +1,7 @@
-# **Hello World**  
+# **नमस्ते | Hello**  
 
 I am Yubin, a neophyte in the world of software development.  
-Currently focusing on front-end side.  
+Currently working on a Node/Express project among a few others.  
 Resident of Bhaktapur, Nepal.  
 
 > Only personal stuff here.
