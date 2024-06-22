@@ -1,7 +1,7 @@
 # **नमस्ते | Hello**  
 
 I am Yubin, a neophyte in the world of software development.  
-Currently working on a Node/Express project among a few others.  
+Currently working on a Node/Express project at [Gurzu]([url](https://gurzu.com/)).  
 Resident of Bhaktapur, Nepal.  
 
 > Only personal stuff here.
