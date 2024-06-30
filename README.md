@@ -10,12 +10,7 @@ Resident of Bhaktapur, Nepal.
 - Initialized in the 90's
 - Completed Bachelor's degree in *Computer Science*
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
-- My [Replit](https://replit.com/@YubinKarki) has some python programs
-
-## Other Contributions  
-Here is my contribution graph from Gurzu.  
-
-<img width="975" alt="contribution" src="https://github.com/yubinkarki/yubinkarki/assets/36847479/34a83262-2b0d-4b8c-a7f1-d551bc17d308">  
+- My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
 ## Web Development  
 
