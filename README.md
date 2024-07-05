@@ -47,7 +47,9 @@ Resident of Bhaktapur, Nepal.
 [<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" decoding="async" loading="lazy" />](https://developer.apple.com/xcode/)  
 
 ## My Stats  
-[![committers.top badge](https://user-badge.committers.top/nepal/yubinkarki.svg)](https://user-badge.committers.top/nepal/yubinkarki)
+<a href="https://user-badge.committers.top/nepal/yubinkarki">
+  <img src="https://user-badge.committers.top/nepal/yubinkarki.svg" width="200" height="25" alt="Top GitHub committers badge">
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
 
