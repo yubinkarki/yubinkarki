@@ -46,6 +46,11 @@ Resident of Bhaktapur, Nepal
 
 [<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" decoding="async" loading="lazy" />](https://developer.apple.com/xcode/)  
 
+## Work Contributions
+
+#### [Gurzu](https://github.com/yubin-gurzu)
+![yubin-gurzu](https://github.com/user-attachments/assets/403fa7f6-91a1-45a6-80a4-a0d2751acd42)
+
 ## My Stats  
 <a href="https://user-badge.committers.top/nepal/yubinkarki">
   <img src="https://user-badge.committers.top/nepal/yubinkarki.svg" width="200" height="25" alt="Top GitHub committers badge">
