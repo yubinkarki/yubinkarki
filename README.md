@@ -1,7 +1,7 @@
 # **नमस्ते | Hello**  
 
 I am Yubin, a neophyte in the world of software development  
-Currently working on a Node/Express project at [Gurzu](https://gurzu.com/)  
+Currently invloved in a Node/Express project at the [work](#work-contributions)  
 Resident of Bhaktapur, Nepal  
 
 > Only personal stuff here.
@@ -48,7 +48,7 @@ Resident of Bhaktapur, Nepal
 
 ## Work Contributions
 
-### [Gurzu:](https://github.com/yubin-gurzu) React Native | React | Node
+### const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };
 ![yubin-gurzu](https://github.com/user-attachments/assets/403fa7f6-91a1-45a6-80a4-a0d2751acd42)
 
 ## My Stats  
