@@ -32,7 +32,8 @@ Resident of Bhaktapur, Nepal
 
 ## Work Contributions
 
-const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };  
+> const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };  
+
 ![yubin-gurzu](https://github.com/user-attachments/assets/403fa7f6-91a1-45a6-80a4-a0d2751acd42)
 
 ## My Stats  
