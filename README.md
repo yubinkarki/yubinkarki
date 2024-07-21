@@ -12,29 +12,15 @@ Resident of Bhaktapur, Nepal
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
-## Web Development  
-
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML)  
-
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/CSS)  
-
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)  
-
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" decoding="async" loading="lazy" />](https://redux-toolkit.js.org/)  
-
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" decoding="async" loading="lazy" />](https://nodejs.org/en)  
-
-## Mobile Development  
+## Languages & Tools  
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" decoding="async" loading="lazy" />](https://www.typescriptlang.org/)  
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)  
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" decoding="async" loading="lazy" />](https://dart.dev/)  
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" decoding="async" loading="lazy" />](https://redux-toolkit.js.org/)  
 
-[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" decoding="async" loading="lazy" />](https://docs.flutter.dev/)  
-
-## Other Tools & Tech  
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" decoding="async" loading="lazy" />](https://nodejs.org/en)  
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" decoding="async" loading="lazy" />](https://firebase.google.com/)  
 
@@ -42,13 +28,11 @@ Resident of Bhaktapur, Nepal
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" decoding="async" loading="lazy" />](https://git-scm.com/about)  
 
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" decoding="async" loading="lazy" />](https://developer.android.com/studio/intro)  
-
-[<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" decoding="async" loading="lazy" />](https://developer.apple.com/xcode/)  
+[<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" decoding="async" loading="lazy" />](https://developer.android.com/studio/intro)  
 
 ## Work Contributions
 
-### const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };
+#### const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };
 ![yubin-gurzu](https://github.com/user-attachments/assets/403fa7f6-91a1-45a6-80a4-a0d2751acd42)
 
 ## My Stats  
