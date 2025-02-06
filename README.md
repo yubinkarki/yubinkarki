@@ -14,6 +14,7 @@ Resident of Bhaktapur, Nepal
 
 ## Languages & Tools  
 
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" decoding="async" loading="lazy" />](https://www.typescriptlang.org/)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" decoding="async" loading="lazy" />](https://redux-toolkit.js.org/)
@@ -23,8 +24,6 @@ Resident of Bhaktapur, Nepal
 ## Work Contributions
 
 > const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };  
-
-![yubin-gurzu](https://github.com/user-attachments/assets/b0d53937-6591-4938-a3a2-9f74a662c2fe)  
 
 ## My Stats  
 <a href="https://user-badge.committers.top/nepal/yubinkarki">
