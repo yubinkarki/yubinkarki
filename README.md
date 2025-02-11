@@ -12,10 +12,8 @@ Resident of Bhaktapur, Nepal
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
-## Programming/Scripting Languages  
+## Programming Languages  
 
-[<img align="left" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" decoding="async" loading="lazy" />](https://www.typescriptlang.org/)  
 
