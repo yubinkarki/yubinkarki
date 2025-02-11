@@ -12,13 +12,19 @@ Resident of Bhaktapur, Nepal
 - Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - My [Replit](https://replit.com/@YubinKarki) has some python programs  
 
-## Languages & Tools  
+## Programming/Scripting Languages  
 
+[<img align="left" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" decoding="async" loading="lazy" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" decoding="async" loading="lazy" />](https://www.typescriptlang.org/)
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" decoding="async" loading="lazy" />](https://www.typescriptlang.org/)  
+
+## Libraries/Frameworks & Tools  
+
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" decoding="async" loading="lazy" />](https://reactnative.dev/)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" decoding="async" loading="lazy" />](https://redux-toolkit.js.org/)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" decoding="async" loading="lazy" />](https://nodejs.org/en)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" decoding="async" loading="lazy" />](https://aws.amazon.com/about-aws/)
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" decoding="async" loading="lazy" />](https://firebase.google.com/)  
 
 ## Work Contributions
