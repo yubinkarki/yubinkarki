@@ -27,7 +27,7 @@ Resident of Bhaktapur, Nepal
 
 ## Work Contributions
 
-> const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node'], current: true };  
+> const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node', 'Flutter'], current: false };  
 
 ## My Stats  
 <a href="https://user-badge.committers.top/nepal/yubinkarki">
