@@ -1,7 +1,7 @@
 # **नमस्ते | Hello**  
 
 I am Yubin, a neophyte in the world of software development  
-Currently invloved in a Node/Express project at [work](#work-contributions)  
+Currently engaged in learning something new  
 Resident of Bhaktapur, Nepal  
 
 > Only personal stuff here
