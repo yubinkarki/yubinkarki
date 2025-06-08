@@ -9,8 +9,7 @@ Resident of Bhaktapur, Nepal
 ## About Me  
 - Initialized in the 90's
 - Completed Bachelor's degree in *Computer Science*
-- Go-to PC game >> [Dota 2](https://www.dota2.com/home)
-- My [Replit](https://replit.com/@YubinKarki) has some python programs  
+- Go-to PC game >> [Dota 2](https://www.dota2.com/home)  
 
 ## Programming Languages  
 
@@ -24,16 +23,3 @@ Resident of Bhaktapur, Nepal
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" decoding="async" loading="lazy" />](https://nodejs.org/en)
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" decoding="async" loading="lazy" />](https://aws.amazon.com/about-aws/)
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" decoding="async" loading="lazy" />](https://firebase.google.com/)  
-
-## Work Contributions
-
-> const [Gurzu](https://github.com/yubin-gurzu) = { tools: ['React Native', 'React', 'Node', 'Flutter'], current: false };  
-
-## My Stats  
-<a href="https://user-badge.committers.top/nepal/yubinkarki">
-  <img src="https://user-badge.committers.top/nepal/yubinkarki.svg" width="200" height="25" alt="Top GitHub committers badge">
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats-yk-projects.vercel.app/?user=yubinkarki&theme=transparent&hide_border=true&card_width=600&hide_current_streak=true)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-top-languages-yk-projects.vercel.app/api/top-langs/?username=yubinkarki&theme=transparent&hide_border=true&card_width=380&layout=compact&langs_count=6&hide=scss,c%2B%2B,objective-c%2B%2B,php)](https://github.com/anuraghazra/github-readme-stats)  
