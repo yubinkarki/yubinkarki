@@ -1,4 +1,4 @@
-# **नमस्ते | Hello**  
+# **नमस्ते | Hello | こんにちは**  
 
 I am Yubin, a neophyte in the world of software development  
 Currently engaged in learning something new  
