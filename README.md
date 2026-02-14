@@ -1,15 +1,16 @@
 # **नमस्ते | Hello | こんにちは**  
 
 I am Yubin, a neophyte in the world of software development  
-Currently engaged in learning something new  
-Resident of Bhaktapur, Nepal  
+Currently engaged in learning 日本語 and keeping up with new updates     
 
-> Only personal stuff here
+> Only personal stuff here  
+> One private repo is my personal portfolio source code
 
 ## About Me  
 - Initialized in the 90's
+- From Nepal to Japan
+- Go-to PC game >> [Dota 2](https://www.dota2.com/home)
 - Completed Bachelor's degree in *Computer Science*
-- Go-to PC game >> [Dota 2](https://www.dota2.com/home)  
 
 ## Programming Languages  
 
