@@ -4,13 +4,14 @@ I am Yubin, a neophyte in the world of software development
 Currently engaged in learning 日本語 and keeping up with new updates     
 
 > Only personal stuff here  
-> One private repo is my personal portfolio source code
+> Personal portfolio repo is private  
+> Aiming for one commit everyday「できるだけね」  
 
 ## About Me  
-- Initialized in the 90's
-- From Nepal to Japan
-- Go-to PC game >> [Dota 2](https://www.dota2.com/home)
-- Completed Bachelor's degree in *Computer Science*
+- Initialized in the 90's「九十年代」
+- From Nepal to Japan「ネパールから日本」
+- Go-to PC game >> [Dota 2](https://www.dota2.com/home)「最近はやっていないけど」
+- Bachelor's degree in *Computer Science*「コンピュータサイエンスと情報技術の学士」
 
 ## Programming Languages  
 
