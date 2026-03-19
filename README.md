@@ -4,7 +4,7 @@ I am Yubin, a neophyte in the world of software development
 Currently engaged in learning 日本語 and keeping up with new updates     
 
 > Only personal stuff here  
-> Personal portfolio repo is private  
+> Portfolio source code repo is private  
 > Aiming for one commit everyday「できるだけね」  
 
 ## About Me  
