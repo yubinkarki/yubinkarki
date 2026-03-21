@@ -24,4 +24,7 @@ Currently engaged in learning 日本語 and keeping up with new updates
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" decoding="async" loading="lazy" />](https://redux-toolkit.js.org/)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" decoding="async" loading="lazy" />](https://nodejs.org/en)
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" decoding="async" loading="lazy" />](https://aws.amazon.com/about-aws/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" decoding="async" loading="lazy" />](https://www.docker.com/products/docker-desktop/)
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" decoding="async" loading="lazy" />](https://firebase.google.com/)  
+
+
